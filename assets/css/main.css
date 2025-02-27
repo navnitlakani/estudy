@@ -1850,8 +1850,8 @@ section,
 .media-social ul li a {
   display: flex;
   align-items: center;
-  padding: 8px 24px;
-  border: 2px solid var(--accent-color);
+  padding: 7px 24px;
+  border: 1px solid var(--accent-color);
   border-radius: 8px;
 }
 
