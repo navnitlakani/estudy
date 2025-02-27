@@ -1,4 +1,4 @@
 # estudy
 
 
-(https://estudy-azure.vercel.app/)
+https://estudy-azure.vercel.app/
