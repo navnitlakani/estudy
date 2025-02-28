@@ -516,9 +516,12 @@ h6 {
 }
 
 .footer .footer-links ul a {
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: #000;
   display: inline-block;
   line-height: 1;
+}
+.footer-newsletter{
+ color: #000;
 }
 
 .footer .footer-links ul a:hover {
@@ -526,7 +529,8 @@ h6 {
 }
 
 .footer .footer-contact p {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
+    color: #000;
 }
 
 .footer .footer-newsletter .newsletter-form {
