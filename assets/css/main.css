@@ -121,7 +121,7 @@ h6 {
   background: var(--accent-color);
   font-size: 14px;
   padding: 12px 25px;
-  margin: 0 0 0 30px;
+  margin: 0 0 0 20px;
   border-radius: 8px;
   transition: 0.3s;
 }
