@@ -1,10 +1,4 @@
-/**
-* Template Name: Mentor
-* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 /*--------------------------------------------------------------
 # Font & Color Variables
@@ -1196,7 +1190,7 @@ h3.join-title:after,
   padding-top: 10px;
   font-size: 14px;
   font-style: italic;
-  color: color-mix(in srgb, var(--default-color), transparent 40%);
+  color: #333;
 }
 
 .trainers-index .member .social {
@@ -1204,12 +1198,12 @@ h3.join-title:after,
 }
 
 .trainers-index .member .social a {
-  color: color-mix(in srgb, var(--default-color), transparent 60%);
+  color: var(--accent-color);
   transition: 0.3s;
 }
 
 .trainers-index .member .social a:hover {
-  color: var(--accent-color);
+  color: #16364dd1;
 }
 
 .trainers-index .member .social i {
